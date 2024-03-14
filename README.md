@@ -2,7 +2,7 @@
 
 Sistema agenda de contatos para cadastro e gerenciamento de usuários
 
-Meu primeiro projeto em Java WEb, utilizando Java Orientado a Objetos e utilização da biblioteca iText para gerar relatótios em PDF.
+Meu primeiro projeto em Java WEB, utilizando Java Orientado a Objetos e utilização da biblioteca iText para gerar relatótios em PDF.
 
 ## Ferramentas e Tecnologias
 
